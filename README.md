@@ -1,3 +1,3 @@
 # DeFi-Compass-Labs
 
-Ken, Zyad, Darryl, Kem, Ayesha, ...
+Ken, Zyad, Darryl, Kem, Ayesha, Ridwan
